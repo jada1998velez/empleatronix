@@ -31,3 +31,4 @@ if activarSueldo:
 plt.xticks(rotation=90)
 st.pyplot(plt)
 
+st.markdown('© José Antonio Díaz Aranda - CPIFP Alan Turing')
